@@ -1,1 +1,2 @@
 # inf510_project
+The topic of this project is to discuss what factors may be revelant to nba players' salary and nba team's salary. In this project, I choose height and rpm as potential factors that may be related with player's salary, and win_lost_ration, and PTS as potential factors that may affect team's salary. In the future, I may add more attribute(like, player's age, player's position) for further study.  
